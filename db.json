@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": "d458e927-a352-4c4d-8bcc-3c086d65244f",
+      "nome": "sara",
+      "email": "teste@teste.com",
+      "senha": "$2b$10$kWjnCDG0VIFZ530XoVLGEe9n/EOs5.HeYrhcPL7xH4LmGfmY/jOwy"
+    }
+  ]
+}
